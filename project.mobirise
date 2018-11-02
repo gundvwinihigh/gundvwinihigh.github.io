@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gundvwini High School",
-    "currentPage": "ebooks&notes.html",
+    "currentPage": "ict_dep.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 5,
+    "uniqCompNum": 3,
     "versionPublish": "4.8.6",
     "favicon": "@PROJECT_PATH@/assets/images/headericon-128x119-2.png",
     "noImageResize": "",
@@ -802,7 +802,7 @@
                 "title": "EDUCATIONAL SITES",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Because our team cares about you, we also link you to several online sites that will help you get the most updated information at all times. You are advised to keep visiting these sites since content provided by our server can easily get outdated with time.",
+                "text": "Because our team cares about you, we also link you with several online sites that will help you get the most updated information at all times. You are advised to keep visiting these sites since content provided by our server can easily get outdated with time.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"educationalsites.html\" data-toolbar=\"-mbrBtnMove\">VISIT EXTERNAL SITES NOW</a>"
               },
               {
